@@ -1,5 +1,3 @@
-
-
 Project Name: Git Practical Assessment
 
 
@@ -32,9 +30,9 @@ README.md
 
 
 
-Các file bổ sung sẽ được thêm trong quá trình phát triển
+Core application files
 
 
 
-
+Configuration files
 
