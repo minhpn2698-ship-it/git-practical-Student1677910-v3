@@ -1,3 +1,5 @@
+
+
 Project Name: Git Practical Assessment
 
 
@@ -28,9 +30,9 @@ Initial Repository Content:
 
 README.md (main documentation)
 
-Core application files
+Các file bổ sung sẽ được thêm trong quá trình phát triển
+
 
 Feature-related files
 
-Configuration files
 
