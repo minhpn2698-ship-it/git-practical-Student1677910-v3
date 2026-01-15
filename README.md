@@ -1,5 +1,3 @@
-
-
 Project Name: Git Practical Assessment
 
 
@@ -28,13 +26,11 @@ Initial Repository Content:
 
 
 
-README.md
+README.md (main documentation)
 
 
 
-Các file bổ sung sẽ được thêm trong quá trình phát triển
-
-
+Feature-related files
 
 
 
